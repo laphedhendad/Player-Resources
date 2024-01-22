@@ -1,0 +1,11 @@
+﻿{
+  "name": "com.laphed.player-resources",
+  "displayName": "Player Resources",
+  "author": { "name": "Laphed Hendad", "url": "https://github.com/laphedhendad" },
+  "version": "1.0.0",
+  "unity": "2020.1",
+  "description": "Player Resources feature based on reactivity",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
